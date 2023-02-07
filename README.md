@@ -15,7 +15,7 @@ Hate speech on Twitter refers to any form of communication that attacks, threate
 
 Hate speech on social media platforms, such as Twitter, is a growing concern that needs to be addressed. The solution to this problem is to implement a machine learning model that can accurately identify and classify tweets as hate speech or not. This GitHub repository provides a transfer learning-based machine learning model for the purpose of identifying hate speech on Twitter.
 
-The model is built on the "nnlm-en-dim50" token-based text embedding, which has been trained on the English Google News 7B corpus. This pre-trained text embedding provides a robust foundation for the model to extract meaningful features from the tweets and accurately identify hate speech.
+The model is built on the "`nnlm-en-dim50`" token-based text embedding, which has been trained on the English Google News 7B corpus. This pre-trained text embedding provides a robust foundation for the model to extract meaningful features from the tweets and accurately identify hate speech.
 
 The model utilizes advanced NLP techniques to classify tweets based on their language and content. The code for the model is written in Python and makes use of popular libraries such as Tensorflow and Keras. These libraries allow for the implementation of deep learning techniques and ensure efficient training and deployment of the model.
 
